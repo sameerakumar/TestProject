@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "kcs test project",
   "main": "app.js",
- "scripts": {
+  "scripts": {
     "start": "nodemon"
   },
   "author": "",
